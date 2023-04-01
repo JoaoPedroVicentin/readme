@@ -14,6 +14,7 @@
 <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
+<br>
 
 <div>
 <h2>Frontend</h2>
@@ -25,6 +26,7 @@
 <img align="center" alt="tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="center" alt="radix-ui" height="40" width="40" src="https://web-portfolio-joao-pedro-vicentin.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FradixLogo.5ed6e7c4.png&w=48&q=75" />
 </div>
+<br>
 
 <div>
 <h2>Backend</h2>
@@ -34,6 +36,7 @@
 <img align="center" alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
+<br>
   
 ##
 
