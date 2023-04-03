@@ -1,6 +1,6 @@
 <h1 align="left"> Olá 👋, eu sou João Pedro</h1>
 
-<img width='100%' src="https://raw.githubusercontent.com/gist/JoaoPedroVicentin/be53817debfdc98f882d67d54950715a/raw/4d06f4b2b51cac3fe7f8af87accb1653beeea13e/banner-readme.svg" />
+<img width='100%' src="https://raw.githubusercontent.com/gist/JoaoPedroVicentin/b429ec61a6cdf2cf74d33a434d6f2acc/raw/754207df331a868ff89cc07318c628dbf56c73d4/banner2-readme.svg" />
 
 ----
 
