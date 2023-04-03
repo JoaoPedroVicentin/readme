@@ -2,19 +2,19 @@
 
 <h1 align="left"> Olá 👋, eu sou João Pedro</h1>
 
-- 🔥 Desenvolvedor frontend
+- 🔥 Desenvolvedor frontend.
 
-- 💻 Experiência de 1,5 ano trabalhando como estagiário em desenvolvimento frontend na [Fomenta Vale](https://www.fomentavale.com.br/)
+- 💻 Experiência de 1,5 ano trabalhando como estagiário em desenvolvimento frontend na [Fomenta Vale](https://www.fomentavale.com.br/).
 
-- 📖 Finalizando bacharelado em ciência da computação pela [FEMA](https://fema.edu.br/)
+- 📖 Finalizando bacharelado em ciência da computação pela [FEMA](https://fema.edu.br/).
 
 - 🚀 + de 30 projetos desenvolvidos no github.
 
-- 🛠️ Minhas principais skills são **React, Next, Typescript**
+- 🛠️ Minhas principais skills são **React, Next, Typescript**.
 
-- ⚡ Atualmente estou estudando **React Native, Node**
+- ⚡ Atualmente estou estudando **React Native, Node**.
 
-- 👨‍💻 Saiba mais acessando meu [web-portfólio](https://web-portfolio-joao-pedro-vicentin.vercel.app/)
+- 👨‍💻 Saiba mais acessando meu [web-portfólio](https://web-portfolio-joao-pedro-vicentin.vercel.app/).
 
 <br>
 
