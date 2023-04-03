@@ -43,7 +43,7 @@
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,mysql,sqlite,jest,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,mysql,sqlite,graphql)](https://skillicons.dev)
 <br>
 
 ### Others
