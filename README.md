@@ -1,50 +1,57 @@
-# Olá muito prazer, sou o João Pedro!
+<img align='right' height='590' src="https://raw.githubusercontent.com/gist/JoaoPedroVicentin/2a618b72f6e78a7e8bd80f5de96de8b9/raw/fabfb7776410ccba3c814f41a02600f6e7fec9dc/card-readme.svg" />
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroVicentin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroVicentin&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<h1 align="left"> Olá 👋, eu sou João Pedro</h1>
 
-<h1>Tecnologias</h1>
+- 🔥 Desenvolvedor frontend
 
-<div>
-<h2>Linguagens</h2>
-<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+- 💻 Experiência de 1,5 ano trabalhando como estagiário em desenvolvimento frontend na [Fomenta Vale](https://www.fomentavale.com.br/)
+
+- 📖 Finalizando bacharelado em ciência da computação pela [FEMA](https://fema.edu.br/)
+
+- 🚀 + de 30 projetos desenvolvidos no github.
+
+- 🛠️ Minhas principais skills são **React, Next, Typescript**
+
+- ⚡ Atualmente estou estudando **React Native, Node**
+
+- 👨‍💻 Saiba mais acessando meu [web-portfólio](https://web-portfolio-joao-pedro-vicentin.vercel.app/)
 
 <br>
 
-<div>
-<h2>Frontend</h2>
-<img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="center" alt="styled-components" height="40" width="40" src="https://web-portfolio-joao-pedro-vicentin.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FstyledComponentsLogo.b159ce1c.png&w=48&q=75" />
-<img align="center" alt="material-ui" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="center" alt="stiches" height="40" width="40" src="https://web-portfolio-joao-pedro-vicentin.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FstichesLogo.9c5d0f71.png&w=48&q=75" />
-<img align="center" alt="tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="center" alt="radix-ui" height="40" width="40" src="https://web-portfolio-joao-pedro-vicentin.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FradixLogo.5ed6e7c4.png&w=48&q=75" />
-</div>
+## ⚙️ Github Analytics
+
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroVicentin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 <br>
 
-<div>
-<h2>Backend</h2>
-<img align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Fastify" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/fastify.svg" />
-<img align="center" alt="Prisma" height="40" width="40" src="https://www.svgrepo.com/show/374002/prisma.svg" />
-<img align="center" alt="mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-</div>
+
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroVicentin&layout=compact&langs_count=7&theme=tokyonight"/>
+
 <br>
-  
-##
 
-<div> 
-  <a href = "mailto:jplvicen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-vicentin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
- 
-  ![Snake animation](https://github.com/JoaoPedroVicentin/JoaoPedroVicentin/blob/output/github-contribution-grid-snake.svg)
- 
+## 🛠️ My Skills
 
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next)](https://skillicons.dev)
+<br>
+
+### Styles
+
+[![My Skills](https://skillicons.dev/icons?i=materialui,styledcomponents,tailwind,bootstrap)](https://skillicons.dev)
+<br>
+
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,mysql,sqlite,jest,graphql)](https://skillicons.dev)
+<br>
+
+### Others
+
+[![My Skills](https://skillicons.dev/icons?i=git,jest,graphql,figma)](https://skillicons.dev)
+
+<br>
+
+[![Social Media](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) <h3>joaopedrovicentin</h3>
+
+[![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev) <h3>JoaoPedroVicentin</h3>
