@@ -1,4 +1,4 @@
-<img align='right' height='590' src="https://raw.githubusercontent.com/gist/JoaoPedroVicentin/2a618b72f6e78a7e8bd80f5de96de8b9/raw/fabfb7776410ccba3c814f41a02600f6e7fec9dc/card-readme.svg" />
+<img align='right' height='500' src="https://raw.githubusercontent.com/gist/JoaoPedroVicentin/2a618b72f6e78a7e8bd80f5de96de8b9/raw/fabfb7776410ccba3c814f41a02600f6e7fec9dc/card-readme.svg" />
 
 <h1 align="left"> Olá 👋, eu sou João Pedro</h1>
 
@@ -20,7 +20,7 @@
 
 ## ⚙️ Github Analytics
 
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroVicentin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroVicentin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <br>
 
