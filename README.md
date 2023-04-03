@@ -16,7 +16,7 @@
 
 - 👨‍💻 Saiba mais acessando meu [web-portfólio](https://web-portfolio-joao-pedro-vicentin.vercel.app/).
 
-<br>
+----
 
 ## ⚙️ Github Analytics
 
@@ -27,7 +27,7 @@
 
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroVicentin&layout=compact&langs_count=7&theme=tokyonight"/>
 
-<br>
+----
 
 ## 🛠️ My Skills
 
@@ -50,7 +50,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,jest,graphql,figma)](https://skillicons.dev)
 
-<br>
+----
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) <h3>[joaopedrovicentin](https://www.linkedin.com/in/joaopedrovicentin/)</h3>
 
