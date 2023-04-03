@@ -52,6 +52,6 @@
 
 <br>
 
-[![Social Media](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) <h3>joaopedrovicentin</h3>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) <h3>[joaopedrovicentin](https://www.linkedin.com/in/joaopedrovicentin/)</h3>
 
-[![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev) <h3>JoaoPedroVicentin</h3>
+[![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev) <h3>[JoaoPedroVicentin](https://github.com/JoaoPedroVicentin)</h3>
