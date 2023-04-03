@@ -1,6 +1,10 @@
-<img align='right' height='500' src="https://raw.githubusercontent.com/gist/JoaoPedroVicentin/2a618b72f6e78a7e8bd80f5de96de8b9/raw/fabfb7776410ccba3c814f41a02600f6e7fec9dc/card-readme.svg" />
-
 <h1 align="left"> Olá 👋, eu sou João Pedro</h1>
+
+<img width='100%' src="https://raw.githubusercontent.com/gist/JoaoPedroVicentin/be53817debfdc98f882d67d54950715a/raw/4d06f4b2b51cac3fe7f8af87accb1653beeea13e/banner-readme.svg" />
+
+----
+
+<h3>
 
 - 🔥 Desenvolvedor frontend.
 
@@ -15,19 +19,21 @@
 - ⚡ Atualmente estou estudando **React Native, Node**.
 
 - 👨‍💻 Saiba mais acessando meu [web-portfólio](https://web-portfolio-joao-pedro-vicentin.vercel.app/).
+</h3>
 
 ----
 
 ## ⚙️ Github Analytics
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroVicentin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<br>
-
-
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroVicentin&layout=compact&langs_count=7&theme=tokyonight"/>
+<div>
+<img align='left' height="200" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroVicentin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroVicentin&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ----
+
+<div>
 
 ## 🛠️ My Skills
 
@@ -49,6 +55,7 @@
 ### Others
 
 [![My Skills](https://skillicons.dev/icons?i=git,jest,graphql,figma)](https://skillicons.dev)
+</div>
 
 ----
 
